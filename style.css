@@ -115,8 +115,7 @@ p {
 
 .links : hover {
     background-color: #2e1e57 !important;
-    text-decoration: underline !important:
-    font-size: 35px;
+    text-decoration: underline !important: font-size: 35px;
 }
 
 #work {
@@ -133,21 +132,22 @@ p {
     font-family: 'Bad Script', cursive;
     padding-top: 150px;
     background: linear-gradient(#FFC6D0 0%, #5D198E 100%);
+}
 
-    html {
-        scroll-behavior: smooth;
-    }
+html {
+    scroll-behavior: smooth;
+}
 
-    #image2 {
-        width: 100px;
-        height: 50px;
-        border-style: groove;
-        border-width: thick;
-    }
+#image2 {
+    width: 100px;
+    height: 50px;
+    border-style: groove;
+    border-width: thick;
+}
 
-    #contact {
-        text-align: center !important;
-        font-family: 'Bad Script', cursive;
-        background: linear-gradient(#FFC6D0 0%, #5D198E 100%);
-        padding: 250px;
-    }
+#contact {
+    text-align: center !important;
+    font-family: 'Bad Script', cursive;
+    background: linear-gradient(#FFC6D0 0%, #5D198E 100%);
+    padding: 250px;
+}
